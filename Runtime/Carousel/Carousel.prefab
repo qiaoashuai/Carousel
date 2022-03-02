@@ -863,7 +863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bcf77a168e6366d4f817b7ff0de1a3be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carouselScroll: {fileID: 0}
+  carouselScroll: {fileID: 1771179605273084893}
   onImageAddValueChanged:
     m_PersistentCalls:
       m_Calls: []
